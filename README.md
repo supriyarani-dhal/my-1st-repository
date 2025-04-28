@@ -1,3 +1,8 @@
 # my-1st-repository
 
 hii hello technology monster
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_Y29oZXJlbnQtbWFsbGFyZC01MS5jbGVyay5hY2NvdW50cy5kZXYk
+CLERK_SECRET_KEY=sk_test_bjmgkaL6ue2cPbbr4iPAWUyv0yuCfcEDhV0vz42CNe
+LIVESERVER_PUBLIC_KEY=pk_dev_HPs2G_RtKo7gzYL_SygcJOfk5vaO2bT7S2byctoja2CcXqAmOeElU2Bv_duqrMjK
+!MONGODB_URI=mongodb+srv://supriyadhal50:AVYtmQxm88qitb2r@cluster0.l0qfop9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
